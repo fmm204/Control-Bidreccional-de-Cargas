@@ -1,2 +1,2 @@
-# openZcontrol
-openZcontrol es una implementación que ofrece funcionalidades de control de cargas con el envio de comandos a través de la red electrica. Es un dispositivo implementable tanto a nivel doméstico como industrial.
+# Control de cargas con realimentación 
+El estudio detallado de las limitaciones presentes en la infraestructura eléctrica española, junto con el análisis de las restricciones técnicas inherentes a la tecnología “Ripple Control”, evidencia la necesidad de evolucionar hacia sistemas de comunicación más sofisticados. Por tanto, este proyecto aborda el desafío de diseñar un modelo de comunicación bidireccional que no solo supere estas limitaciones, sino que también siente las bases para futuras aplicaciones en el contexto de las redes eléctricas inteligentes.
